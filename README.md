@@ -11,7 +11,7 @@ This repository is a clone of the RAIT ACM Women Chapter website. It is designed
   <img alt="Homepage Preview" src="./assets/homepage.png" width="700"/>
 </p>
 
-> _If you want to update these images, upload new screenshots to the `assets` folder and update the paths above._
+> _From `assets` folder._
 
 ## Table of Contents
 
