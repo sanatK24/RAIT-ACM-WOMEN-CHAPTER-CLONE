@@ -2,6 +2,17 @@
 
 This repository is a clone of the RAIT ACM Women Chapter website. It is designed to replicate the look, feel, and functionality of the official ACM Women Chapter site at RAIT (Ramrao Adik Institute of Technology). The project aims to provide a platform showcasing events, initiatives, and achievements of the ACM Women Chapter community.
 
+**🌐 Live Website:** [https://club-website-clone.vercel.app/](https://club-website-clone.vercel.app/)
+
+## Website Preview
+
+<!-- Replace these paths with actual image paths in your repository -->
+<p align="center">
+  <img alt="Homepage Preview" src="./assets/homepage.png" width="700"/>
+</p>
+
+> _If you want to update these images, upload new screenshots to the `assets` folder and update the paths above._
+
 ## Table of Contents
 
 - [About](#about)
