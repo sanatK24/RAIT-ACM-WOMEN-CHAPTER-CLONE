@@ -5,11 +5,7 @@ This repository is a clone of the RAIT ACM Women Chapter website. It is designed
 **🌐 Live Website:** [https://club-website-clone.vercel.app/](https://club-website-clone.vercel.app/)
 
 ## Website Preview
-
-<!-- Replace these paths with actual image paths in your repository -->
-<p align="center">
-  <img alt="Homepage Preview" src="./assets/homepage.png" width="700"/>
-</p>
+![Homepage Preview](./assets/homepage.png)
 
 > _From `assets` folder._
 
